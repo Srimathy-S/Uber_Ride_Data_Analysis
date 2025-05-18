@@ -1,5 +1,7 @@
 # PowerBI Decision Analytics Hub
 
+[![License](https://img.shields.io/badge/License-MIT-orange)](https://github.com/virajbhutada/PowerBI-Dashboards/blob/main/LICENSE)
+
 
 Stepping into the dynamic world of data-driven decision-making at the PowerBI Analytics Hub. This repository serves as a centralized destination, a collection of crafted PowerBI dashboards. I'll be working on creating dashboard in various sectors like Healthcare, E-commerce, Fintech etc,. So this repository is main for all of my data analysis projects.
 
