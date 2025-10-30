@@ -44,5 +44,7 @@ By contributing to this project, you agree that your contributions will be licen
 I appreciate your interest in this Power BI Dashboards project and look forward to creating impactful visualizations together!
 
 ---
-
-## Linkedin: [Srimathy Sivanessan](https://www.linkedin.com/in/srimathyofficial/)
+## Author
+**Srimathy** 
+- Email-ID: srimathy226@gmail.com
+- Linkedin: [Srimathy Sivanessan](https://www.linkedin.com/in/srimathyofficial/)
