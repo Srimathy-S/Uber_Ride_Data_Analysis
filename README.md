@@ -24,7 +24,6 @@ We welcome contributions and new ideas!
 
  All contributions are licensed under the MIT License.[![License](https://img.shields.io/badge/License-MIT-orange)](https://github.com/Srimathy-S/Uber_Ride_Data_Analysis/blob/main/LICENSE)
 
----
 ## 👩‍💻Author
 **Srimathy** 
 - Email-ID: srimathy226@gmail.com
