@@ -1,6 +1,6 @@
 # PowerBI Decision Analytics Hub
 
-Welcome to the **PowerBI Decision Analytics Hub** — a centralized collection of interactive and insightful part where I will be creating dashboards across domains such as **Healthcare, E-commerce, and Fintech**. So this repository is main for all of my data analysis projects.
+Welcome to the **PowerBI Decision Analytics Hub** - a centralized collection of interactive and insightful part where I will be creating dashboards across domains such as **Healthcare, E-commerce, and Fintech**. So this repository is main for all of my data analysis projects.
 
 
 
